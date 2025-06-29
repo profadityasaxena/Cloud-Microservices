@@ -24,16 +24,6 @@ The goal is to support architectural assessment, service decomposition, migratio
 
 ---
 
-## How to Use
-
-1. Clone or download the repository.
-2. Open the `main.tex` file in [Overleaf](https://overleaf.com/) or a local LaTeX editor.
-3. Compile using `biblatex` with the `IEEE` style.
-4. Use `references.bib` to cite all included papers.
-5. Review the glossary and pattern sections to reinforce concepts for practical implementation.
-
----
-
 ## Citation
 
 If you use or reference this work, please cite it using the following BibTeX entry:
